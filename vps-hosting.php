@@ -67,7 +67,7 @@
                 <span class="val">1400</span>
                 <span>ريال / سنة</span>
               </div>
-              <a href="#">اطلب الان</a>
+              <a href="https://dc.net.sa/cl/store/lynks-fs/khwdm-ftrdy-at-khs-at-mtqdm-at" target="__blank">اطلب الان</a>
             </div><!-- box -->
           </div><!-- box-plan -->
 
@@ -101,7 +101,7 @@
                   <span class="val">800</span>
                   <span>ريال / سنة</span>
                 </div>
-                <a href="#">اطلب الان</a>
+                <a href="https://dc.net.sa/cl/store/lynks-fs/lkhdm-lftrdy-lkhs-lqysy" target="__blank">اطلب الان</a>
               </div><!-- box -->
             </div><!-- Most Popular -->
           </div><!-- box-plan -->
@@ -133,7 +133,7 @@
                 <span class="val">500</span>
                 <span>ريال / سنة</span>
               </div>
-              <a href="#">اطلب الان</a>
+              <a href="https://dc.net.sa/cl/store/lynks-fs/lkhdm-lftrdy-lkhs-lassy" target="__blank">اطلب الان</a>
             </div><!-- box -->
           </div><!-- box-plan -->
         </div><!-- monthly -->
