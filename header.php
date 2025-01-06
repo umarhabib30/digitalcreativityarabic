@@ -120,7 +120,7 @@
                   <h3>استضافة الويب</h3>
                   <p>ملخص صغير عن الخدمات</p>
                 </a></li>
-              <li><a href="#">
+              <!-- <li><a href="#">
                   <img src="img/ico10.png">
                   <h3>الاستضافة السحابية</h3>
                   <p>ملخص صغير عن الخدمات</p>
@@ -129,14 +129,14 @@
                   <img src="img/ico12.png">
                   <h3>النسخ الاحتياطي والتخزين</h3>
                   <p>ملخص صغير عن الخدمات</p>
-                </a></li>
+                </a></li> -->
 
               <li><a href="vps-hosting.php">
                   <img src="img/ico7.png">
                   <h3>استضافة VPS</h3>
                   <p>ملخص صغير عن الخدمات</p>
                 </a></li>
-              <li><a href="#">
+              <!-- <li><a href="#">
                   <img src="img/ico9.png">
                   <h3>الخوادم</h3>
                   <p>ملخص صغير عن الخدمات</p>
@@ -145,7 +145,7 @@
                   <img src="img/ico11.png">
                   <h3>المجال وشهادة SSL</h3>
                   <p>ملخص صغير عن الخدمات</p>
-                </a></li>
+                </a></li> -->
               <li><a href="monitoring.php">
                   <img src="img/ico13.png">
                   <h3>المراقبة</h3>
