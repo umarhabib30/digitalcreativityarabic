@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="website-monitoring" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #01A0C8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 7.77px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="6.3" y="6.04" width="87.41" height="87.92" rx="6" ry="6"/>
+  <line class="cls-1" x1="50" y1="32.93" x2="50" y2="93.96"/>
+  <line class="cls-1" x1="50" y1="60.32" x2="6.3" y2="60.32"/>
+  <line class="cls-1" x1="92.18" y1="27.56" x2="6.3" y2="27.56"/>
+  <line class="cls-1" x1="68.6" y1="16.46" x2="66.9" y2="16.46"/>
+  <line class="cls-1" x1="82.12" y1="16.46" x2="80.43" y2="16.46"/>
+</svg>
